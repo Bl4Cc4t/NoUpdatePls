@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "0.0.0.0 appldnld.apple.com" >> /etc/hosts
+echo "0.0.0.0 mesu.apple.com" >> /etc/hosts
