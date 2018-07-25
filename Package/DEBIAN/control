@@ -4,7 +4,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Description: Disables software updates by modifying /etc/hosts
 Homepage: https://github.com/Bl4Cc4t
-Maintainer: Bl4Cc4t
-Author: Bl4Cc4t
+Maintainer: Schwarzkatz
+Author: Schwarzkatz
 Sponsor: lel
 Section: Tweaks
