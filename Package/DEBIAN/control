@@ -1,6 +1,6 @@
 Package: moe.schwarzkatz.noupdatepls
 Name: NoUpdatePls
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Description: Disables software updates by modifying /etc/hosts
 Homepage: https://github.com/Bl4Cc4t
